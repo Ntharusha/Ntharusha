@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <a href="mailto:ntb069@gmail.com" target="_blank">
+  <a href="mailto:ntb069@gmail.com" target="_blank" >
     <img src="https://img.shields.io/badge/Email-ntb069@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tharusha-bhashitha-b985b42b9/" target="_blank">
