@@ -33,7 +33,7 @@
 
 ### 🚀 What I’m focusing on
 - Building a solid DevOps foundation (Linux · Git · Bash)
-- **Currently learning:** Docker & container fundamentals
+- **Currently learning:** DevOps Tools
 - Automating small system tasks with Python
 - Crafting minimal, accessible UIs for tools I build
 
