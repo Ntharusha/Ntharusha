@@ -1,7 +1,5 @@
 <!-- Profile README for Tharusha Bhashitha -->
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
 <h1 align="center">Hi, I'm Tharusha Bhashitha 👋</h1>
 
 <p align="center">
