@@ -79,7 +79,7 @@
 
 
 ### 📦 Featured Projects
-*(Coming soon – I’ll be adding my DevOps, automation, and cloud projects here)*  
+1. Containerized a Full-Stack MERN User Management App with Docker Compose
 
 ---
 
