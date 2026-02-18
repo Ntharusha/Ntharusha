@@ -129,9 +129,14 @@
 
 ### 📊 GitHub Stats
 
+<!-- GitHub Stats Alternative -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ntharusha&show_icons=true&theme=radical&count_private=true" alt="Tharusha Bhashitha GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ntharusha&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ntharusha&theme=react-dark" />
+</p>
+
+<p align="center">
+  <img src="https://readme-stats-fork.vercel.app/api/top-langs/?username=Ntharusha&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
