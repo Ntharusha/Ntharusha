@@ -34,7 +34,7 @@
 #  Tharusha Bhashitha — DevOps & Cloud Engineer
 # ──────────────────────────────────────────────
 
-EDUCATION="BSc Applied Mathematics & Computing — SUSL (2026)"
+EDUCATION="BSc Applied Mathematics & Computing — University Of Vavuniya (2026)"
 LOCATION="Sri Lanka 🇱🇰"
 
 FOCUS=(
