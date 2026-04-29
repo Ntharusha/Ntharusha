@@ -1,106 +1,182 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:bb9af7,50:7aa2f7,100:7dcfff&height=200&section=header&text=Tharusha%20Bhashitha&fontSize=44&fontColor=c0caf5&animation=twinkling&fontAlignY=40&desc=DevOps%20Engineer%20%C2%B7%20Cloud%20Architect%20%C2%B7%20Full-Stack%20Developer&descSize=16&descColor=a9b1d6&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1117,60:003300,100:00ff41&height=220&section=header&text=%3E_%20Tharusha%20Bhashitha&fontSize=40&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Building%20%E2%80%A2%20Automating%20%E2%80%A2%20Deploying&descSize=16&descColor=39d353&descAlignY=58&fontAlign=50" width="100%"/>
 
-<p align="center">
+<div align="center">
+
+  ```
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  🟢  DevOps Engineer  ·  Cloud Architect  ·  Full-Stack Dev    ║
+  ╚══════════════════════════════════════════════════════════════════╝
+  ```
+
   <a href="https://www.linkedin.com/in/tharusha-bhashitha-b985b42b9/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:ntb069@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/Ntharusha">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Ntharusha&color=bb9af7&style=flat&label=visitors" alt="visitors"/>
-</p>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Ntharusha&color=39d353&style=flat-square&label=visitors" alt="visitors"/>
 
----
+</div>
 
-### `$ whoami`
+<br/>
 
-```js
-const tharusha = {
-    education : "BSc Applied Mathematics & Computing — SUSL (2026)",
-    role      : "Aspiring DevOps & Cloud Engineer",
-    location  : "Sri Lanka",
-    focus     : ["CI/CD", "Containers", "IaC", "Cloud-Native", "Full-Stack"],
-    learning  : ["Kubernetes", "Terraform", "AWS"],
-    funFact   : "I automate everything — even the things that don't need automating."
-};
+## `> cat /etc/about-me`
+
+```bash
+#!/usr/bin/env bash
+# ──────────────────────────────────────────────
+#  Tharusha Bhashitha — DevOps & Cloud Engineer
+# ──────────────────────────────────────────────
+
+EDUCATION="BSc Applied Mathematics & Computing — SUSL (2026)"
+LOCATION="Sri Lanka 🇱🇰"
+
+FOCUS=(
+    "CI/CD Pipelines"
+    "Container Orchestration"
+    "Infrastructure as Code"
+    "Cloud-Native Architecture"
+    "Full-Stack Development"
+)
+
+CURRENTLY_LEARNING=(
+    "Kubernetes & Helm"
+    "Terraform & Ansible"
+    "AWS / Azure / GCP"
+)
+
+echo "🔧 Building resilient systems, one pipeline at a time."
 ```
 
----
+<br/>
 
-### `$ ls tech-stack/`
+## `> docker images — tech-stack`
+
+```
+REPOSITORY          TAG        STATUS
+──────────────────────────────────────────
+Languages           latest     ✅ Running
+Frontend            latest     ✅ Running
+Backend             latest     ✅ Running
+DevOps              latest     ✅ Running
+Cloud               latest     ✅ Running
+Monitoring          latest     ✅ Running
+```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,bash&theme=dark" alt="Languages"/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend"/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres&theme=dark" alt="Backend"/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab&theme=dark" alt="DevOps"/><br/>
-  <img src="https://skillicons.dev/icons?i=terraform,ansible,aws,azure,gcp&theme=dark" alt="IaC & Cloud"/><br/>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,linux,git&theme=dark" alt="Monitoring & Tools"/>
+
+  <!-- Languages -->
+  ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39d353)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=39d353)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=39d353)
+  ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=39d353)
+  ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=39d353)
+
+  <!-- DevOps & IaC -->
+  ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39d353)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=39d353)
+  ![Helm](https://img.shields.io/badge/Helm-0d1117?style=for-the-badge&logo=helm&logoColor=39d353)
+  ![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=39d353)
+  ![Ansible](https://img.shields.io/badge/Ansible-0d1117?style=for-the-badge&logo=ansible&logoColor=39d353)
+
+  <!-- CI/CD -->
+  ![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=for-the-badge&logo=jenkins&logoColor=39d353)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=39d353)
+  ![GitLab CI](https://img.shields.io/badge/GitLab_CI-0d1117?style=for-the-badge&logo=gitlab&logoColor=39d353)
+
+  <!-- Cloud -->
+  ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=39d353)
+  ![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=39d353)
+  ![GCP](https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=googlecloud&logoColor=39d353)
+
+  <!-- Monitoring -->
+  ![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge&logo=prometheus&logoColor=39d353)
+  ![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=39d353)
+  ![ELK](https://img.shields.io/badge/ELK_Stack-0d1117?style=for-the-badge&logo=elasticstack&logoColor=39d353)
+
+  <!-- Frontend & Backend -->
+  ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=39d353)
+  ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=39d353)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=39d353)
+  ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=39d353)
+  ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39d353)
+  ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39d353)
+
 </p>
 
----
+<br/>
 
-### `$ cat featured-projects.md`
+## `> kubectl get deployments`
+
+```
+NAME              READY   STATUS      AGE
+──────────────────────────────────────────────
+apexpos           1/1     Running     active
+unisync           1/1     Running     active
+lankan-primire    1/1     Running     active
+```
 
 <div align="center">
 
 <a href="https://github.com/Ntharusha/ApexPOS">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ntharusha&repo=ApexPOS&theme=tokyonight&hide_border=true" alt="ApexPOS"/>
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ntharusha&repo=ApexPOS&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=00ff41&text_color=8b949e&border_color=30363d" alt="ApexPOS"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/Ntharusha/UniSync">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ntharusha&repo=UniSync&theme=tokyonight&hide_border=true" alt="UniSync"/>
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ntharusha&repo=UniSync&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=00ff41&text_color=8b949e&border_color=30363d" alt="UniSync"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/Ntharusha/Lankan-Primire">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ntharusha&repo=Lankan-Primire&theme=tokyonight&hide_border=true" alt="Lankan Primire"/>
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ntharusha&repo=Lankan-Primire&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=00ff41&text_color=8b949e&border_color=30363d" alt="Lankan Primire"/>
 </a>
 
 </div>
 
 <br/>
 
-| | Project | What it does | Built with |
-|---|---------|-------------|------------|
-| `01` | [**ApexPOS**](https://github.com/Ntharusha/ApexPOS) | Smart POS system with cloud & local deployment | `TypeScript` `React` `Node.js` |
-| `02` | [**UniSync**](https://github.com/Ntharusha/UniSync) | Student-Lecturer appointment system (Web + Mobile) | `TypeScript` `React Native` |
-| `03` | [**Lankan Primire**](https://github.com/Ntharusha/Lankan-Primire) | Sri Lankan premier league web application | `JavaScript` `Node.js` |
+| | Deployment | Description | Stack |
+|---|-----------|-------------|-------|
+| `🟢` | [**ApexPOS**](https://github.com/Ntharusha/ApexPOS) | Smart POS system — cloud & local deployment | `TypeScript` `React` `Node.js` |
+| `🟢` | [**UniSync**](https://github.com/Ntharusha/UniSync) | Student-Lecturer appointment system (Web + Mobile) | `TypeScript` `React Native` |
+| `🟢` | [**Lankan Primire**](https://github.com/Ntharusha/Lankan-Primire) | Sri Lankan premier league web app | `JavaScript` `Node.js` |
 
----
+<br/>
 
-### `$ git log --stat`
+## `> grafana dashboard --metrics`
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ntharusha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ntharusha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=00ff41&text_color=8b949e&ring_color=39d353&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   &nbsp;
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ntharusha&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ntharusha&hide_border=true&background=0d1117&stroke=30363d&ring=39d353&fire=00ff41&currStreakLabel=39d353&sideLabels=8b949e&currStreakNum=39d353&sideNums=8b949e&dates=484f58" alt="Streak"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ntharusha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ntharusha&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=8b949e&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ntharusha&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Timeline" alt="Activity Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ntharusha&bg_color=0d1117&color=39d353&line=00ff41&point=39d353&area=true&area_color=003300&hide_border=true&custom_title=%F0%9F%93%88%20Deployment%20Frequency" alt="Activity Graph"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ntharusha&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ntharusha&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 </div>
+
+<br/>
 
 ---
 
@@ -114,4 +190,14 @@ const tharusha = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,50:7aa2f7,100:bb9af7&height=100&section=footer" width="100%"/>
+<div align="center">
+
+  ```
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  pipeline { stage('Connect') { sh 'echo Hello, World!' } } ║
+  ╚══════════════════════════════════════════════════════════════╝
+  ```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,30:003300,60:0d1117,100:0a0a0a&height=100&section=footer" width="100%"/>
