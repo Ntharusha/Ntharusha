@@ -163,6 +163,38 @@ lankan-primire    1/1     Running     active
 <div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ntharusha&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=8b949e&langs_count=8" alt="Top Languages"/>
 </div>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ntharusha&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=00ff41&text_color=8b949e" />
+
+  <!-- GitHub Streak -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ntharusha&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=00ff41&currStreakLabel=39d353" />
+
+</div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ntharusha&layout=compact&hide_border=true&theme=dark&langs_count=8" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ntharusha&bg_color=0d1117&color=39d353&line=00ff41&point=39d353&area=true&hide_border=true" />
+
+</div>
+
 
 <br/>
 
