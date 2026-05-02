@@ -187,15 +187,6 @@ lankan-primire    1/1     Running     active
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ntharusha&bg_color=0d1117&color=39d353&line=00ff41&point=39d353&area=true&hide_border=true" />
-
-</div>
-
-
 <br/>
 
 <div align="center">
