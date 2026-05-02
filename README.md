@@ -167,16 +167,6 @@ lankan-primire    1/1     Running     active
 
 ---
 
-## 💻 Most Used Languages
-
-<div align="center">
-
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ntharusha&layout=compact&hide_border=true&theme=dark&langs_count=8" />
-
-</div>
-
----
-
 <br/>
 
 <div align="center">
