@@ -160,9 +160,7 @@ lankan-primire    1/1     Running     active
 
 <br/>
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ntharusha&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=8b949e&langs_count=8" alt="Top Languages"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ntharusha)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
