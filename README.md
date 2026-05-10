@@ -152,34 +152,13 @@ lankan-primire    1/1     Running     active
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ntharusha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=00ff41&text_color=8b949e&ring_color=39d353&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ntharusha&hide_border=true&background=0d1117&stroke=30363d&ring=39d353&fire=00ff41&currStreakLabel=39d353&sideLabels=8b949e&currStreakNum=39d353&sideNums=8b949e&dates=484f58" alt="Streak"/>
-
-</div>
-
-<br/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ntharusha)](https://github.com/Ntharusha/github-readme-stats)
 
 
----
 
-<br/>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ntharusha&show_icons=true&theme=tokyonight)
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ntharusha&bg_color=0d1117&color=39d353&line=00ff41&point=39d353&area=true&area_color=003300&hide_border=true&custom_title=%F0%9F%93%88%20Deployment%20Frequency" alt="Activity Graph"/>
-</div>
 
-<br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ntharusha&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</div>
-
-<br/>
-
----
 
 <div align="center">
   <picture>
